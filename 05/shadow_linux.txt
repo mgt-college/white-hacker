@@ -1,0 +1,3 @@
+root:!:18470:0:99999:7:::
+kali:$6$QvPAw9OBt..VnSAU$wyeJkkHdxeVtsP7GVe7neOWclI/8PEWHKTHHvbuPUVH21sdOBLC.vcgrS0.WmeNs4sOLX0HeBDQto3YNwHBnV0:18470:0:99999:7:::
+test:$6$abcdefg$PPKi5u1LheAnXrg3RbmKsoZQzPlgSVBez1qQO3v4hoDupXygNpVxTJp/K01/nEa8S.ul/J.uy5yX5bO7/9G3r.:18658:0:99999:7:::

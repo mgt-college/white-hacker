@@ -1,0 +1,4 @@
+35.7100627,139.8107004
+
+length 12
+All letters are lowercase.
